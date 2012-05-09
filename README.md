@@ -9,7 +9,8 @@ In your layout, apply *lightboxButton.Blue*, *lightboxButton.Green* or *lightbox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Button" />```
+            android:text="Button" />
+```
 
 ## Installation
 1. git clone git://github.com/lightbox/lightbox-buttons.git
