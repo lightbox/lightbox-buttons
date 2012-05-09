@@ -1,4 +1,5 @@
 This project demonstrates how to create Android buttons with gradients, strokes and rounded corners using Android's built-in drawable resources.
+
 ![Buttons Overview](http://dl.dropbox.com/u/117731/buttons_main.png)
 
 ## Usage
