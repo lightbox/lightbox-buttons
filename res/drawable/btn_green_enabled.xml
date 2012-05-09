@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <gradient
+        android:angle="@integer/btn_gradientAngle"
+        android:endColor="@color/btn_green_dark"
+        android:startColor="@color/btn_green_light" />
+    <stroke
+        android:width="@dimen/btn_strokeWidth"
+        android:color="@color/btn_stroke" >
+    </stroke>
+
+    <corners
+        android:bottomLeftRadius="@dimen/btn_radius"
+        android:bottomRightRadius="@dimen/btn_radius"
+        android:topLeftRadius="@dimen/btn_radius"
+        android:topRightRadius="@dimen/btn_radius" />
+</shape>

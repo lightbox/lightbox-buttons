@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@drawable/btn_blue_enabled"/>
+    <item>
+        <shape>
+            <corners
+                android:bottomLeftRadius="@dimen/btn_radius"
+                android:bottomRightRadius="@dimen/btn_radius"
+                android:topLeftRadius="@dimen/btn_radius"
+                android:topRightRadius="@dimen/btn_radius" />
+
+            <solid android:color="@color/btn_overlay_blue" />
+
+            <stroke
+                android:width="@dimen/btn_strokeWidth"
+                android:color="@color/btn_stroke_focused" >
+            </stroke>
+        </shape>
+    </item>
+
+</layer-list>

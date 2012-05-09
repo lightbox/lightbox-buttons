@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_radius">5dp</dimen>
+    <dimen name="btn_paddingTop">10dp</dimen>
+    <dimen name="btn_paddingBottom">10dp</dimen>
+    <dimen name="btn_paddingRight">15dp</dimen>
+    <dimen name="btn_paddingLeft">15dp</dimen>
+    <dimen name="btn_strokeWidth">2dp</dimen>
+</resources>

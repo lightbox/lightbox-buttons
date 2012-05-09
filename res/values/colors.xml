@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_text_selected">#99CCFF</color>
+    <color name="btn_text_normal">#FFF</color>
+    <color name="btn_text_disabled">#777</color>
+    <color name="btn_stroke">#000</color>
+    <color name="btn_stroke_disabled">#444</color>
+    <color name="btn_stroke_disabled_focused">#69F</color>
+    <color name="btn_stroke_focused">#69F</color>
+    <color name="btn_overlay_blue">#756699FF</color>
+    <color name="btn_grey_dark_disabled">#555555</color>
+    <color name="btn_grey_light_disabled">#666666</color>
+    <color name="btn_grey_dark">#333</color>
+    <color name="btn_grey_light">#666</color>
+    <color name="btn_blue_light">#9CF</color>
+    <color name="btn_blue_dark">#36C</color>
+    <color name="btn_green_dark">#093</color>
+    <color name="btn_green_light">#6F9</color>
+</resources>
