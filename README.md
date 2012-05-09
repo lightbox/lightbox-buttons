@@ -5,6 +5,7 @@ In your layout, apply *lightboxButton.Blue*, *lightboxButton.Green* or *lightbox
 
 **Example:**
 ```
+
     <Button
             style="@style/lightboxButton.Blue"
             android:layout_width="wrap_content"
