@@ -5,13 +5,11 @@ In your layout, apply *lightboxButton.Blue*, *lightboxButton.Green* or *lightbox
 
 **Example:**
 ```
-
-    <Button
-            style="@style/lightboxButton.Blue"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:text="Button" />
+<Button
+    style="@style/lightboxButton.Blue"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Button" />
 ```
 
 ## Installation
