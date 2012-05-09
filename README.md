@@ -4,7 +4,8 @@ This project demonstrates how to create Android buttons with gradients, strokes 
 In your layout, apply *lightboxButton.Blue*, *lightboxButton.Green* or *lightboxButton.Grey* style to your button after adding this Android Library Project as a reference.
 
 **Example:**
-```<Button
+```
+    <Button
             style="@style/lightboxButton.Blue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
