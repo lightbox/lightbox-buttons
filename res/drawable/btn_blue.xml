@@ -7,6 +7,5 @@
     <item android:drawable="@drawable/btn_blue_focused" android:state_enabled="true" android:state_focused="true"/>
     <item android:drawable="@drawable/btn_blue_enabled" android:state_enabled="true"/>
     <item android:drawable="@drawable/btn_disabled_focused" android:state_focused="true"/>
-    <item android:drawable="@drawable/btn_disabled"/>
 
 </selector>
